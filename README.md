@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **svikramjeet/svikramjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,11 +23,6 @@ Here are some ideas to get you started:
 <h1  align="center">Hi 👋, everyone</h1>
 
 <h3  align="center">I'm Vikramjeet full-time BE developer 👨‍💻 </h3>
-
-  
-<details  open>
-
-</details>
 
 <h2  align="left">Connect with me</h2>
 
