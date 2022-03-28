@@ -27,11 +27,7 @@
   
 
 <h2  align="left">Github Stats</h2>
-
   
-
-<h3  align="left">General</h3>
-
-<img  align="left"  width="45%"  src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true"  alt="general"  />
-<img  align="right"  width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks"/>
+<img  align="left"  width="48%"  src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true"  alt="general"  />
+<img  align="right"  width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks"/>
   
