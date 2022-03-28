@@ -57,10 +57,6 @@ Here are some ideas to get you started:
 
 <h3  align="left">Languages</h3>
 
-<img  align="center"  width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=svikramjeet&langs_count=8&layout=compact"  alt="languages"/>
-
+<img  align="left"  width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=svikramjeet&langs_count=8&layout=compact"  alt="languages"/>
+<img  align="right"  width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks"/>
   
-
-<h3  align="left">Streaks</h3>
-
-<img  align="center"  width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks"/>
