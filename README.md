@@ -21,7 +21,7 @@
 <h2  align="left">Github Stats</h2>
 <div>
 <img  align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true"  alt="general"  />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svikramjeet&langs_count=6&layout=compact" alt="languages"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svikramjeet&langs_count=4&layout=compact" alt="languages"/>
 </div>
 <div>
 <br/>
