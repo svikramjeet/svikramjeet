@@ -21,10 +21,9 @@
 <h2  align="left">Github Stats</h2>
 <div>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true"  alt="general" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svikramjeet&langs_count=4&layout=compact" alt="languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks" />
 </div>
 <div>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks" />
-  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=svikramjeet&theme=dracula"  alt="streaks" />
+   <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=svikramjeet&theme=dracula"  alt="graph" />
 </div>
 
