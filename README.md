@@ -23,8 +23,8 @@
 <img  align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true"  alt="general"  />
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svikramjeet&langs_count=4&layout=compact" alt="languages"/>
 </div>
-<div>
 <br/>
-<img  align="left"  width="47%"  src="https://activity-graph.herokuapp.com/graph?username=svikramjeet&theme=dracula"  alt="streaks" />
-<img  align="right"  width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks" />
+<div>
+<img  align="left"  width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks" />
+<img  align="right"  width="47%"  src="https://activity-graph.herokuapp.com/graph?username=svikramjeet&theme=dracula"  alt="streaks" />
 </div>
