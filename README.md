@@ -20,8 +20,8 @@
 
 <h2  align="left">Github Stats</h2>
 <div>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true"  alt="general" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true"  alt="general" />
 </div>
 <div>
    <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=svikramjeet&theme=dracula"  alt="graph" />
