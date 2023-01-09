@@ -24,6 +24,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true&cache=false"  alt="general" />
 </div>
 <div>
-   <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=svikramjeet&theme=dracula&cache=false"  alt="graph" />
+   <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=svikramjeet&theme=dracula&cache=false"  alt="graph" style="display:none" />
 </div>
 
