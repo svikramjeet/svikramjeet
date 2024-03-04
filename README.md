@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/stackoverflow-CC2100?style=for-the-badge&logo=stackoverflow&logoColor=grey" />
    </a>
    <a href="https://svikramjeet.blogspot.com" target="_blank" >
-    <img src="https://img.shields.io/badge/blogger-000?style=for-the-badge&logo=blogger&logoColor=white" />
+    <img src="https://img.shields.io/badge/blogger-000?style=for-the-badge&logo=blogger&logoColor=red" />
    </a>
    <a href="https://www.twitter.com/svikramjeet" target="_blank" class="twitter">
     <img src="https://img.shields.io/badge/twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white"/>
