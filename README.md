@@ -21,6 +21,6 @@
 <h2  align="left">Github Stats</h2>
 <div>
   <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=svikramjeet&cache=false"  alt="streaks" />
-  <img width="46%"  src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true&cache=false"  alt="general" />
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api?username=svikramjeet&show_icons=true&count_private=true&cache=false"  alt="general" />
 </div>
 
