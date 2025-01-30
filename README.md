@@ -3,7 +3,6 @@
 </div>
 <h1  align="center">Hey 👋, everyone</h1>
 <h2  align="center">I'm Vikramjeet, a full-time BE developer 👨‍💻 </h2>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=svikramjeet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -27,9 +26,6 @@
 </div>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/svikramjeet/svikramjeet/output/snake.svg" alt="Snake animation" />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
