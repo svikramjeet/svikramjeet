@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="30" alt="tailwindcss" title="tailwindcss"  />
   </div>
 
 ###
