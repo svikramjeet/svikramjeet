@@ -51,16 +51,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/svikramjeet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"  />
   </a>
      <a href="https://svikramjeet.blogspot.com" target="_blank" >
-    <img src="https://img.shields.io/badge/blogger-000?style=for-the-badge&logo=blogger&logoColor=red" />
+    <img src="https://img.shields.io/badge/blogger-000?style=for-the-badge&logo=blogger&logoColor=red"  height="35" />
    </a>
   <a href="https://stackoverflow.com/users/7302526/svikramjeet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow"  />
   </a>
   <a href="https://twitter.com/svikramjeet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter"  />
   </a>
 </div>
 
