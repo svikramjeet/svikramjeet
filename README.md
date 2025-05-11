@@ -9,12 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svikramjeet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="left">
-  
-
-</div>
-</div>
-
 <img align="right" height="150" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"  />
 
 <div align="left">
