@@ -1,8 +1,15 @@
 <div  align="right">
    <img  src="https://komarev.com/ghpvc/?username=svikramjeet&color=lightgrey"/>
 </div>
-<h1  align="center">Hey 👋, everyone</h1>
-<h2  align="center">I'm Vikramjeet, a full-time BE developer 👨‍💻 </h2>
+<h1  align="center">👋 Hi, I'm Vikramjeet Singh</h1>
+<h2  align="center">
+<span> Developer | Enthusiast | Learner
+</span>
+ </h2>
+<h4>
+Crafting scalable systems, automating workflows, and exploring the intersection of AI + DevOps + Web
+</h4>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=svikramjeet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -62,3 +69,17 @@
 
 <img src="https://raw.githubusercontent.com/svikramjeet/svikramjeet/output/snake.svg" alt="Snake animation" />
 
+
+### 🕹️ Recent Activity
+
+1. 🧠 Testing AI for reading docs
+2. 🐘 Refactored Stripe webhook handlers
+3. ☁️ Deployed Laravel app to Cloud Run
+
+### ✨ Fun Facts
+
+* 🧩 I believe every good architecture tells a story.
+* 🎨 I love turning complex systems into simple diagrams.
+* ☕ Productivity fuel: Code + Coffee + Calm Music.
+
+---
