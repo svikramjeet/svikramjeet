@@ -46,6 +46,8 @@ Crafting scalable systems, automating workflows, and exploring the intersection 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" title="redis logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="30" alt="tailwindcss" title="tailwindcss"  />
+     <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" title="GCP"  />
   </div>
 
 ####
