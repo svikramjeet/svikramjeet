@@ -16,7 +16,7 @@ Crafting scalable systems, automating workflows, and exploring the intersection 
 
 <div align="left">
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,aws,docker,heroku,laravel,linux,mysql,php,postgres,redis,tailwind,gcp&theme=dark&perline=13" />
+  <img src="https://skillicons.dev/icons?i=bash,aws,docker,heroku,laravel,linux,mysql,php,postgres,redis,tailwind,gcp&theme=dark&perline=6" />
 </p>
 
   </div>
